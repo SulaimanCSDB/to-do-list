@@ -1,0 +1,80 @@
+header{
+    text-align: center;
+    margin-top: 80px;
+}
+h1{
+    color: rgb(66, 106, 207);
+}
+#search-form input{
+    width: 475px;
+    max-width: 500px;
+    height: 55px;
+    font-size: 20px;
+}
+#header-head{
+    text-align: center;
+}
+
+/* /////////////////////////////////////////////*/
+
+h2{
+    /* justify-content: center; */
+    text-align: left;
+    max-width:483px;
+    margin: 20px auto 10px auto;
+
+}
+
+#to-do-list{
+    list-style-type: none;
+    padding: 0;
+    /* width: 30%; */
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    
+}
+.title{
+    float: left;
+}
+.to-do-item{
+   padding: 10px;
+   margin-top: 20px;
+}
+
+.delete-btn{
+    /* border: 1px solid black; */
+    cursor: pointer;
+    background-color:rgb(66, 106, 207);
+    float: right;
+    border-radius: 3px;
+    width: 60px;
+    height: 35px;
+    color: white;
+
+}
+
+/*/////////////////////////////////////////////////////*/
+
+section{
+    text-align: center;
+    margin-top: 60px;
+}
+#add-form input{
+    width: 410px;
+    max-width: 500px;
+    height: 50px;
+    margin-right: auto;
+    font-size: 20px;
+}
+#add-form button{
+    height: 55px;
+    width: 60px;
+    max-width: 500px;
+    cursor: pointer;
+    background-color: rgb(66, 106, 207);
+    color: white;
+    font-size: 16px;
+}
+
+
